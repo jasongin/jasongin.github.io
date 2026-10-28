@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "6CDMU4N79J.io.github.jasongin.personal-finance"
+        ],
+        "components": [
+          {
+            "/": "/personal-finance/plaid/*",
+            "comment": "Finance Plaid OAuth return"
+          }
+        ]
+      }
+    ]
+  }
+}
